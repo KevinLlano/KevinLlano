@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size: 28px;">
+<p align="center" style="font-size: 18px;">
   🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻  <strong>Full-Stack Developer</strong> • ⚙️  <strong>DevOps & Cloud Skills</strong> • 🤖  <strong>AI Integration Enthusiast</strong>
 </p>
 
