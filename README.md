@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**KevinLlano/KevinLlano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-size: 28px;">
+  🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻  <strong>Full-Stack Developer</strong> • ⚙️  <strong>DevOps & Cloud Skills</strong> • 🤖  <strong>AI Integration Enthusiast</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+</div>
+
+---
+
+### 📚 About Me
+
+🎓 B.S. in Software Engineering – Western Governors University  
+🎓 M.S. in Computer Science – In Progress (Machine Learning Focus)  
+💼 DevOps Intern @ KubeCraft | Freelance Full Stack Developer 
+
+
+---
+
+### 📫 How to Reach Me
+- Email: Ke.bleach@gmail.com
