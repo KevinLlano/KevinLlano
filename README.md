@@ -21,9 +21,9 @@
 
 ### 📚 About Me
 
-🎓 B.S. in Software Engineering – Western Governors University  
-🎓 M.S. in Computer Science – In Progress (Machine Learning Focus)  
-💼 DevOps Intern @ KubeCraft | Freelance Full Stack Developer
+🎓 B.S. in Software Engineering – Graduate  
+🎓 M.S. in Software Engineering (Artificial Intelligence Focus) – In Progress  
+💼 DevOps Trainee @ KubeCraft | Freelance Full Stack Developer
 
 ---
 
