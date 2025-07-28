@@ -23,7 +23,7 @@
 
 🎓 B.S. in Software Engineering – Graduated  
 🎓 M.S. in Software Engineering (Artificial Intelligence Focus) – In Progress  
-💼 DevOps Trainee @ KubeCraft | Freelance Full Stack Developer
+💼 DevOps Intern @ KubeCraft | Freelance Full Stack Developer
 
 ---
 
