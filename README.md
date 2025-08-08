@@ -21,8 +21,8 @@
 
 ### 📚 About Me
 
-🎓 B.S. in Software Engineering – Graduated  
 🎓 M.S. in Computer Science – In Progress  
+🎓 B.S. in Software Engineering – Graduated  
 💼 DevOps Intern @ KubeCraft | Freelance Full Stack Developer
 
 ---
