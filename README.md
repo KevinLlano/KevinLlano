@@ -1,5 +1,5 @@
 <p align="center" style="font-size:18px;">
-  🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻 <strong>Full-Stack Developer</strong> • ⚙️ <strong>DevOps & Cloud Skills</strong> • 🤖 <strong>AI Integration Enthusiast</strong>
+  🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻 <strong>Full-Stack Java Developer</strong> • ⚙️ <strong>DevOps & Cloud Skills</strong> • 🤖 <strong>AI Integration & Authomation Enthusiast</strong>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ### 📚 About Me
 
-🎓 M.S. in Computer Science – In Progress  
+🎓 M.S. in Software Engineering – In Progress  
 🎓 B.S. in Software Engineering – Graduated  
 💼 Freelance Web Developer + content manager
 
