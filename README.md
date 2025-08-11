@@ -1,5 +1,5 @@
 <p align="center" style="font-size:18px;">
-  🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻 <strong>Full-Stack Java Developer</strong> • ⚙️ <strong>DevOps & Cloud Skills</strong> 
+  🌩️ <strong>AWS-Certified Software Engineer</strong> • 💻 <strong>Full-Stack Java Engineer</strong> • ⚙️ <strong>DevOps & Cloud Skills</strong> 
 </p>
 
 ---
