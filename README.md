@@ -21,7 +21,7 @@
 
 ### 📚 About Me
 
-🎓 M.S. in Software Engineering – In Progress  
+🎓 M.S. in Computer Science – Dec 2026 (Expected)  
 🎓 B.S. in Software Engineering – Graduated  
 💼 Freelance Web Developer + content manager
 
