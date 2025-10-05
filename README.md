@@ -26,4 +26,3 @@
 ### 📫 How to Reach Me
 
 - Email: Ke.bleach@gmail.com  
-- [![Discord](https://img.shields.io/badge/Discord-Ryviance-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/155858222945796096)
