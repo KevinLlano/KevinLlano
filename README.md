@@ -3,15 +3,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1032a5d7-9b00-4677-bf69-72314d03bede" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1032a5d7-9b00-4677-bf69-72314d03bede" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/59c3ba09-35e7-4207-a8c9-39b1f768f47a" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
 </p>
 
