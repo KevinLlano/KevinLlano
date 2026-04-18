@@ -24,7 +24,7 @@
 ### 😊 About Me
 🎓 B.S. in Software Engineering – Graduated  
 💼 Freelance Web Developer + content manager  
-🧑‍💻 Skilled in Full Stack Development, DevOps, and AWS Cloud   
+🧑‍💻 Skilled in Full Stack Engineering, DevOps, and AWS Cloud   
 
 
 ### 📫 How to Reach Me
