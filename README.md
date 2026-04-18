@@ -22,10 +22,11 @@
 
 ---
 ### 😊 About Me
-🎓 B.S. in Software Engineering – Graduated  
-💼 Freelance Web Developer + content manager  
+🎓 B.S. in Software Engineering                          
+💼 Freelance Developer + content manager  
 🧑‍💻 Skilled in Full Stack Engineering, DevOps, and AWS Cloud   
 
 
 ### 📫 How to Reach Me
 - Email: Ke.bleach@gmail.com  
+> “Be curious. Take risks. Strive for greatness. Lift others as you climb.”
