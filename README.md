@@ -29,4 +29,4 @@
 
 ### 📫 How to Reach Me
 - Email: Ke.bleach@gmail.com  
-> “Be curious. Take risks. Strive for greatness. Lift others as you climb.”
+> “Be curious. Take risks. Strive for greatness. Treat others with respect.”
